@@ -1,0 +1,12 @@
+,metric,coded,uncoded,p_value,uncoded_pct,coded_pct
+0,Words (Mann-Whitney U),144.0,157.0,0.9875,,
+1,Blockchain & Distributed Ledger Security,,,,3.7,5.7
+2,Cryptography & Formal Verification,,,,14.3,13.6
+3,Hardware & Embedded Systems Security,,,,10.6,10.2
+4,Large Language Models (LLM),,,,10.3,10.2
+5,Machine Learning & AI (non-LLM),,,,12.6,11.4
+6,Network Security & Infrastructure,,,,8.3,8.0
+7,Privacy (Data Security & Analytics),,,,3.7,5.7
+8,Software Security & Development Lifecycle,,,,14.3,13.6
+9,System Security & Threat Detection,,,,12.0,11.4
+10,Usable Security & Privacy,,,,10.3,10.2

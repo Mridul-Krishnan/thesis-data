@@ -1,0 +1,11 @@
+Research Domain,n,Human Subjects,Measurement,SoK,System,Theory,Vuln Research
+Blockchain & Distributed Ledger Security,5,0.0,0.0,0.0,100.0,40.0,40.0
+Cryptography & Formal Verification,12,8.3,16.7,0.0,75.0,75.0,33.3
+Hardware & Embedded Systems Security,9,0.0,22.2,11.1,77.8,22.2,55.6
+Large Language Models (LLM),9,11.1,33.3,0.0,66.7,44.4,55.6
+Machine Learning & AI (non-LLM),10,0.0,20.0,20.0,50.0,70.0,60.0
+Network Security & Infrastructure,7,0.0,28.6,14.3,71.4,14.3,100.0
+Privacy (Data Security & Analytics),5,0.0,20.0,0.0,100.0,60.0,0.0
+Software Security & Development Lifecycle,12,16.7,0.0,8.3,66.7,33.3,66.7
+System Security & Threat Detection,10,20.0,20.0,0.0,80.0,50.0,60.0
+Usable Security & Privacy,9,77.8,22.2,22.2,22.2,55.6,11.1

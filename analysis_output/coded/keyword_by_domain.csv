@@ -1,0 +1,11 @@
+Research Domain,IRB / ethics board,Informed consent,Responsible disclosure,Menlo Report,Belmont Report,GDPR / law,Legal (broad),Privacy / PII,Harm / risk,Terms of Service,Stakeholder,Public data,No concerns claim,Human subjects,Respect for persons,Harm mitigation,Live testing,Researcher safety,Benefit / justification,Justice / vulnerable groups,Risk-benefit analysis,Alternatives considered
+Blockchain & Distributed Ledger Security,0.0,0.0,60.0,20.0,0.0,0.0,60.0,40.0,40.0,0.0,40.0,20.0,40.0,40.0,0.0,20.0,40.0,0.0,40.0,20.0,0.0,0.0
+Cryptography & Formal Verification,8.3,0.0,25.0,8.3,0.0,0.0,16.7,83.3,58.3,0.0,16.7,41.7,8.3,16.7,8.3,58.3,16.7,0.0,33.3,25.0,0.0,8.3
+Hardware & Embedded Systems Security,11.1,0.0,44.4,0.0,0.0,0.0,33.3,33.3,33.3,0.0,11.1,22.2,0.0,11.1,11.1,44.4,33.3,0.0,0.0,0.0,0.0,0.0
+Large Language Models (LLM),66.7,22.2,33.3,11.1,0.0,0.0,33.3,55.6,88.9,11.1,22.2,55.6,22.2,55.6,22.2,66.7,22.2,11.1,33.3,22.2,22.2,0.0
+Machine Learning & AI (non-LLM),20.0,0.0,40.0,0.0,0.0,0.0,40.0,50.0,90.0,0.0,40.0,70.0,0.0,30.0,0.0,70.0,10.0,30.0,30.0,10.0,20.0,10.0
+Network Security & Infrastructure,0.0,0.0,42.9,0.0,0.0,0.0,14.3,14.3,14.3,0.0,0.0,14.3,14.3,0.0,0.0,28.6,0.0,0.0,0.0,0.0,0.0,0.0
+Privacy (Data Security & Analytics),0.0,20.0,20.0,0.0,0.0,0.0,40.0,60.0,80.0,0.0,20.0,20.0,0.0,20.0,0.0,80.0,0.0,20.0,20.0,40.0,0.0,0.0
+Software Security & Development Lifecycle,16.7,16.7,25.0,0.0,0.0,0.0,25.0,25.0,41.7,8.3,16.7,41.7,16.7,25.0,0.0,41.7,16.7,8.3,25.0,16.7,25.0,8.3
+System Security & Threat Detection,30.0,30.0,40.0,10.0,0.0,0.0,20.0,50.0,80.0,10.0,10.0,20.0,0.0,30.0,10.0,70.0,0.0,0.0,30.0,0.0,0.0,0.0
+Usable Security & Privacy,66.7,55.6,11.1,11.1,0.0,11.1,22.2,88.9,77.8,11.1,22.2,22.2,0.0,88.9,55.6,66.7,0.0,33.3,55.6,22.2,44.4,22.2

@@ -1,0 +1,11 @@
+Research Domain,1-50,51-150,151-400,400+
+Blockchain & Distributed Ledger Security,3,3,10,2
+Cryptography & Formal Verification,9,26,23,4
+Hardware & Embedded Systems Security,12,22,10,2
+Large Language Models (LLM),2,16,21,6
+Machine Learning & AI (non-LLM),7,20,22,5
+Network Security & Infrastructure,7,10,12,7
+Privacy (Data Security & Analytics),2,12,4,0
+Software Security & Development Lifecycle,8,27,18,9
+System Security & Threat Detection,4,19,18,11
+Usable Security & Privacy,2,9,17,17

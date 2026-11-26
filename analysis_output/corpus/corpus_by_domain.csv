@@ -1,0 +1,11 @@
+Research Domain,papers,median_words_if_present,mean_words_if_present,coded_papers
+Blockchain & Distributed Ledger Security,18,195.0,235.2,5
+Cryptography & Formal Verification,62,120.5,165.5,12
+Hardware & Embedded Systems Security,46,107.0,156.2,9
+Large Language Models (LLM),45,181.0,243.5,9
+Machine Learning & AI (non-LLM),54,154.0,209.3,10
+Network Security & Infrastructure,36,188.5,277.4,7
+Privacy (Data Security & Analytics),18,128.5,130.9,5
+Software Security & Development Lifecycle,62,136.0,203.9,12
+System Security & Threat Detection,52,161.0,241.1,10
+Usable Security & Privacy,45,347.0,352.8,9

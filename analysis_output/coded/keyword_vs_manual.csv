@@ -1,0 +1,17 @@
+,keyword,manual_code,agreement_pct,cohen_kappa
+0,Responsible disclosure,VulnDisclosure,86.4,0.712
+2,Privacy / PII,DataPrivacy,77.3,0.547
+1,Human subjects,HumanSubjects,81.8,0.527
+9,Informed consent,RespectForPersons,76.1,0.385
+7,Researcher safety,ResearcherSafety,88.6,0.381
+11,Justice / vulnerable groups,Justice,73.9,0.353
+13,Legal (broad),RespectForLawAndPublicInterest,68.2,0.331
+10,Respect for persons,RespectForPersons,72.7,0.277
+14,Risk-benefit analysis,Risk Benefit Analysis,61.4,0.24
+6,Live testing,LiveTesting,80.7,0.208
+4,Harm mitigation,HarmMitigation,61.4,0.205
+8,Benefit / justification,Beneficience,50.0,0.199
+15,Alternatives considered,Alternatives Considered,92.0,0.181
+3,Stakeholder,StakeholderImpact,48.9,0.124
+12,GDPR / law,RespectForLawAndPublicInterest,56.8,0.028
+5,Terms of Service,ToSViolation,95.5,0.0

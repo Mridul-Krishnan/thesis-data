@@ -1,0 +1,5 @@
+,Beneficience,RespectForPersons,Justice,RespectForLawAndPublicInterest
+Beneficience,1.0,0.22,0.3,-0.06
+RespectForPersons,0.22,1.0,0.4,0.18
+Justice,0.3,0.4,1.0,0.13
+RespectForLawAndPublicInterest,-0.06,0.18,0.13,1.0

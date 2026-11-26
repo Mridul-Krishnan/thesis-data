@@ -1,0 +1,8 @@
+,code,groups,chi2,dof,p_value,low_expected_cells_pct
+1,HumanSubjects,10,29.93,9,0.0005,60.0
+2,DataPrivacy,10,18.2,9,0.0329,55.0
+6,ResearcherSafety,10,13.45,9,0.1432,60.0
+0,VulnDisclosure,10,11.64,9,0.2343,55.0
+4,HarmMitigation,10,10.32,9,0.3252,65.0
+3,StakeholderImpact,10,8.33,9,0.5008,65.0
+5,LiveTesting,10,4.46,9,0.8788,60.0

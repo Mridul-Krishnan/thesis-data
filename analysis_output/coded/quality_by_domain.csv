@@ -1,0 +1,11 @@
+Research Domain,n,Risk Benefit Analysis,Alternatives Considered
+Blockchain & Distributed Ledger Security,5,60.0,0.0
+Cryptography & Formal Verification,12,75.0,0.0
+Hardware & Embedded Systems Security,9,33.3,0.0
+Large Language Models (LLM),9,55.6,11.1
+Machine Learning & AI (non-LLM),10,60.0,20.0
+Network Security & Infrastructure,7,0.0,0.0
+Privacy (Data Security & Analytics),5,60.0,0.0
+Software Security & Development Lifecycle,12,33.3,0.0
+System Security & Threat Detection,10,70.0,0.0
+Usable Security & Privacy,9,55.6,11.1

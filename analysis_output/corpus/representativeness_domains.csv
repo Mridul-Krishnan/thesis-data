@@ -1,0 +1,11 @@
+metric,coded_pct,uncoded_pct
+Blockchain & Distributed Ledger Security,5.7,3.7
+Cryptography & Formal Verification,13.6,14.3
+Hardware & Embedded Systems Security,10.2,10.6
+Large Language Models (LLM),10.2,10.3
+Machine Learning & AI (non-LLM),11.4,12.6
+Network Security & Infrastructure,8.0,8.3
+Privacy (Data Security & Analytics),5.7,3.7
+Software Security & Development Lifecycle,13.6,14.3
+System Security & Threat Detection,11.4,12.0
+Usable Security & Privacy,10.2,10.3

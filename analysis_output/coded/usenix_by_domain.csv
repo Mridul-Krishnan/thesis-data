@@ -1,0 +1,11 @@
+Research Domain,n,VulnDisclosure,HumanSubjects,DataPrivacy,StakeholderImpact,HarmMitigation,ToSViolation,LiveTesting,ResearcherSafety
+Blockchain & Distributed Ledger Security,5,60.0,0.0,20.0,40.0,40.0,0.0,20.0,0.0
+Cryptography & Formal Verification,12,25.0,8.3,58.3,58.3,66.7,0.0,8.3,0.0
+Hardware & Embedded Systems Security,9,66.7,0.0,22.2,77.8,66.7,0.0,11.1,11.1
+Large Language Models (LLM),9,44.4,33.3,44.4,66.7,77.8,0.0,33.3,22.2
+Machine Learning & AI (non-LLM),10,50.0,10.0,50.0,60.0,50.0,0.0,10.0,20.0
+Network Security & Infrastructure,7,71.4,0.0,14.3,85.7,71.4,0.0,14.3,0.0
+Privacy (Data Security & Analytics),5,20.0,0.0,60.0,40.0,60.0,0.0,0.0,20.0
+Software Security & Development Lifecycle,12,41.7,16.7,16.7,58.3,33.3,0.0,16.7,0.0
+System Security & Threat Detection,10,40.0,20.0,40.0,50.0,70.0,0.0,20.0,0.0
+Usable Security & Privacy,9,11.1,77.8,88.9,88.9,88.9,0.0,11.1,33.3

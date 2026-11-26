@@ -1,0 +1,89 @@
+file,IRB / ethics board,Informed consent,Responsible disclosure,Menlo Report,Belmont Report,GDPR / law,Legal (broad),Privacy / PII,Harm / risk,Terms of Service,Stakeholder,Public data,No concerns claim,Human subjects,Respect for persons,Harm mitigation,Live testing,Researcher safety,Benefit / justification,Justice / vulnerable groups,Risk-benefit analysis,Alternatives considered
+A Framework for Designing Provably Secure Steganography.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"A Tale of Two Worlds, a Formal Story of WireGuard Hybridization.md",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+A Thorough Security Analysis of {BLE} Proximity Tracking Protocols.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Abusability of Automation Apps in Intimate Partner Violence.md,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,1,0,0,0
+Addressing Sensitivity Distinction in Local Differential Privacy {A} General Utility-Optimized Framework.md,0,1,0,0,0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1,0,0
+AGNNCert Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification.md,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,1,1,1,0
+An Industry Interview Study of Software Signing for Supply Chain Security.md,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0
+Analyzing the {AI} Nudification Application Ecosystem.md,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0
+"Approve Once, Regret Forever On the Exploitation of Ethereum's Approve-TransferFrom Ecosystem.md",0,0,1,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0
+Are CAPTCHAs Still Bot-hard Generalized Visual {CAPTCHA} Solving with Agentic Vision Language Model.md,1,1,0,0,0,0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+As Advertised Understanding the Impact of Influencer {VPN} Ads.md,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+Atkscopes Multiresolution Adversarial Perturbation as a Unified Attack on Perceptual Hashing and Beyond.md,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0
+Attacker Control and Bug Prioritization.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beyond Statistical Estimation Differentially Private Individual Computation via Shuffling.md,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Big Help or Big Brother Auditing Tracking, Profiling, and Personalization in Generative {AI} Assistants.md",1,1,0,1,0,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0
+Chimera Creating Digitally Signed Fake Photos by Fooling Image Recapture and Deepfake Detectors.md,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CloudFlow Identifying Security-sensitive Data Flows in Serverless Applications.md,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Comprehensive Deniability Analysis of Signal Handshake Protocols X3DH, {PQXDH} to Fully Post-Quantum with Deniable Ring Signatures.md",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+Current Affairs {A} Security Measurement Study of {CCS} {EV} Charging Deployments.md,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,1,1,0,1
+DarkGram {A} Large-Scale Analysis of Cybercriminal Activity Channels on Telegram.md,1,0,1,1,0,0,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0
+Data-Free Model-Related Attacks Unleashing the Potential of Generative {AI}.md,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Demystifying the (In)Security of {QR} Code-based Login in Real-world Deployments.md,1,1,1,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Detecting Compromise of Passkey Storage on the Cloud.md,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+DiskSpy Exploring a Long-Range Covert-Channel Attack via mmWave Sensing of {-(-mu-)}m-level {HDD} Vibrations.md,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Does Finality Gadget Finalize Your Block {A} Case Study of Binance Consensus.md,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Dormant Defending against Pose-driven Human Image Animation.md,1,1,0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1
+EchoLLM LLM-Augmented Acoustic Eavesdropping Attack on Bone Conduction Headphones with mmWave Radar.md,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Efficient Batchable Secure Outsourced Computation Depth-Aware Arithmetization of Common Primitives for {BFV} {-&} {BGV}.md,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Efficient Multi-Party Private Set Union Without Non-Collusion Assumptions.md,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Encrypted Access Logging for Online Accounts Device Attributions without Device Tracking.md,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+Engorgio An Arbitrary-Precision Unbounded-Size Hybrid Encrypted Database via Quantized Fully Homomorphic Encryption.md,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0
+Evaluating the Effectiveness and Robustness of Visual Similarity-based Phishing Detection Models.md,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0
+EvilEDR Repurposing {EDR} as an Offensive Tool.md,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+Exposing the Guardrails Reverse-Engineering and Jailbreaking Safety Filters in DALL{-(-cdot-)}E Text-to-Image Pipelines.md,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+From Constraints to Cracks Constraint Semantic Inconsistencies as Vulnerability Beacons for Embedded Systems.md,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+From Meme to Threat On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models.md,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+From Risk to Resilience Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning.md,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,1,0,1,1
+General-Purpose f-DP Estimation and Auditing in a Black-Box Setting.md,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+GPUHammer Rowhammer Attacks on {GPU} Memories are Practical.md,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0
+GradEscape {A} Gradient-Based Evader Against AI-Generated Text Detectors.md,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0
+"Great, Now Write an Article About That The Crescendo Multi-Turn {LLM} Jailbreak Attack.md",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+HateBench Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaign.md,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0
+"High Stakes, Low Certainty Evaluating the Efficacy of High-Level Indicators of Compromise in Ransomware Attribution.md",1,1,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Hybrid Language Processor Fuzzing via LLM-Based Constraint Solving.md,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I Cannot Write This Because It Violates Our Content Policy Understanding Content Moderation Policies and User Experiences in Generative {AI} Products.md,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+I have no idea how to make it safer Studying Security and Privacy Mindsets of Browser Extension Developers.md,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1
+IDFuzz Intelligent Directed Grey-box Fuzzing.md,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+ImpROV Measurement and Practical Mitigation of Collateral Damage in {RPKI} Route Origin Validation.md,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Let's Move2EVM.md,0,0,1,0,0,0,1,0,1,0,1,1,1,1,0,1,1,0,0,0,0,0
+LLFuzz An Over-the-Air Dynamic Testing Framework for Cellular Baseband Lower Layers.md,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Make Agent Defeat Agent Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents.md,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+More is Less Extra Features in Contactless Payments Break Security.md,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Navigating Security and Privacy Threats in Homeless Service Provision.md,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,0
+"No, {I} Can't Be a Security Personnel on Your Phone Security and Privacy Threats From Sharing Infrastructure in Rural Ghana.md",1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,0,0
+On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts.md,1,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0
+Onions Got Puzzled On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services.md,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Password Guessing Using Large Language Models.md,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+Patching Up Stakeholder Experiences of Security Updates for Connected Medical Devices.md,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Pig in a Poke Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations.md,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Practical Keyword Private Information Retrieval from Key-to-Index Mappings.md,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Recover from Excessive Faults in Partially-Synchronous {BFT} {SMR}.md,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Security and Privacy Advice for {UPI} Users in India.md,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Serverless Functions Made Confidential and Efficient with Split Containers.md,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Shimmer a Provably Secure Steganography Based on Entropy Collecting Mechanism.md,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Software Availability Protection in Cyber-Physical Systems.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SoK Data Reconstruction Attacks Against Machine Learning Models Definition, Metrics, and Benchmark.md",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SoK On Gradient Leakage in Federated Learning.md,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+SoK Towards Effective Automated Vulnerability Repair.md,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Synthesis of Code-Reuse Attacks from p-code Programs.md,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0
+Synthetic Artifact Auditing Tracing LLM-Generated Synthetic Data Usage in Downstream Applications.md,1,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0
+Systematic Evaluation of Randomized Cache Designs against Cache Occupancy.md,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+The Ghost Navigator Revisiting the Hidden Vulnerability of Localization in Autonomous Driving.md,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+The Silent Danger in {HTTP} Identifying {HTTP} Desync Vulnerabilities with Gray-box Testing.md,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Thunderdome Timelock-Free Rationally-Secure Virtual Channels.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Too Much of a Good Thing (In-)Security of Mandatory Security Software for Financial Services in South Korea.md,1,0,1,0,0,0,0,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+Towards Lifecycle Unlearning Commitment Management Measuring Sample-level Unlearning Completeness.md,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Transparent Attested {DNS} for Confidential Computing Services.md,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models.md,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0
+When Translators Refuse to Translate {A} Novel Attack to Speech Translation Systems.md,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+X.509DoS Exploiting and Detecting Denial-of-Service Vulnerabilities in Cryptographic Libraries using Crafted {X.509} Certificates.md,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+{AKMA+} Security and Privacy-Enhanced and Standard-Compatible {AKMA} for 5G Communication.md,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+{BEAT-MEV} Epochless Approach to Batched Threshold Encryption for {MEV} Prevention.md,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,0
+{DISPATCH} Unraveling Security Patches from Entangled Code Changes.md,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+{NASS} Fuzzing All Native Android System Services with Interface Awareness and Coverage.md,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+{PATCHAGENT} {A} Practical Program Repair Agent Mimicking Human Expertise.md,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+{POPS} From History to Mitigation of {DNS} Cache Poisoning Attacks.md,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+{SCASE} Automated Secret Recovery via Side-Channel-Assisted Symbolic Execution.md,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+{TAPAS} An Efficient Online {APT} Detection with Task-guided Process Provenance Graph Segmentation and Analysis.md,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0

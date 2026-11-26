@@ -1,0 +1,31 @@
+,Research_Type,key,primary_domain,Ethics Depth,ethics_words,total_codes,score,also_types,rank
+0,Human Subjects,Navigating Security and Privacy Threats in Homeless Service Provision,Usable Security & Privacy,Detailed,963,8.0,7.0,Theory,1
+1,Human Subjects,I have no idea how to make it safer Studying Security and Privacy Mindsets of Browser Extension Developers,Software Security & Development Lifecycle,Detailed,867,6.0,6.0,,2
+2,Human Subjects,Too Much of a Good Thing (In-)Security of Mandatory Security Software for Financial Services in South Korea,Cryptography & Formal Verification,Detailed,640,10.0,6.0,"Vuln Research, Theory",3
+3,Human Subjects,Dormant Defending against Pose-driven Human Image Animation,Usable Security & Privacy,Detailed,556,6.0,6.0,"System, Theory",4
+4,Human Subjects,"High Stakes, Low Certainty Evaluating the Efficacy of High-Level Indicators of Compromise in Ransomware Attribution",System Security & Threat Detection,Detailed,343,7.0,6.0,Theory,5
+5,Measurement,DarkGram {A} Large-Scale Analysis of Cybercriminal Activity Channels on Telegram,System Security & Threat Detection,Detailed,676,7.0,5.666666666666667,Theory,1
+6,Measurement,Current Affairs {A} Security Measurement Study of {CCS} {EV} Charging Deployments,Cryptography & Formal Verification,Detailed,362,8.0,5.666666666666667,Vuln Research,2
+7,Measurement,"Big Help or Big Brother Auditing Tracking, Profiling, and Personalization in Generative {AI} Assistants",Large Language Models (LLM),Detailed,943,6.0,5.0,Theory,3
+8,Measurement,As Advertised Understanding the Impact of Influencer {VPN} Ads,Usable Security & Privacy,Detailed,499,6.0,4.666666666666667,"Human Subjects, Theory",4
+9,Measurement,Transparent Attested {DNS} for Confidential Computing Services,Hardware & Embedded Systems Security,Brief,262,5.0,4.666666666666667,"System, Theory",5
+10,SoK,Analyzing the {AI} Nudification Application Ecosystem,Usable Security & Privacy,Detailed,401,7.0,5.0,,1
+11,SoK,An Industry Interview Study of Software Signing for Supply Chain Security,Usable Security & Privacy,Detailed,279,6.0,5.0,"Human Subjects, Theory",2
+12,SoK,SoK On Gradient Leakage in Federated Learning,Machine Learning & AI (non-LLM),Minimal,92,1.0,2.0,"Theory, Measurement",3
+13,SoK,"SoK Data Reconstruction Attacks Against Machine Learning Models Definition, Metrics, and Benchmark",Machine Learning & AI (non-LLM),Minimal,88,1.0,2.0,Measurement,4
+14,SoK,Systematic Evaluation of Randomized Cache Designs against Cache Occupancy,Hardware & Embedded Systems Security,Minimal,85,3.0,2.0,Measurement,5
+15,System,AGNNCert Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification,Machine Learning & AI (non-LLM),Detailed,538,6.0,7.0,Theory,1
+16,System,From Risk to Resilience Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning,Machine Learning & AI (non-LLM),Detailed,386,8.0,6.5,"Theory, Vuln Research",2
+17,System,Are CAPTCHAs Still Bot-hard Generalized Visual {CAPTCHA} Solving with Agentic Vision Language Model,Large Language Models (LLM),Detailed,510,9.0,6.0,"Vuln Research, Human Subjects, Theory",3
+18,System,Abusability of Automation Apps in Intimate Partner Violence,Usable Security & Privacy,Detailed,429,8.0,6.0,Vuln Research,4
+19,System,Efficient Batchable Secure Outsourced Computation Depth-Aware Arithmetization of Common Primitives for {BFV} {-&} {BGV},Cryptography & Formal Verification,Detailed,421,5.0,6.0,Theory,5
+20,Theory,Navigating Security and Privacy Threats in Homeless Service Provision,Usable Security & Privacy,Detailed,963,8.0,6.0,Human Subjects,1
+21,Theory,AGNNCert Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification,Machine Learning & AI (non-LLM),Detailed,538,6.0,6.0,System,2
+22,Theory,From Risk to Resilience Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning,Machine Learning & AI (non-LLM),Detailed,386,8.0,6.0,"System, Vuln Research",3
+23,Theory,"Big Help or Big Brother Auditing Tracking, Profiling, and Personalization in Generative {AI} Assistants",Large Language Models (LLM),Detailed,943,6.0,5.0,Measurement,4
+24,Theory,DarkGram {A} Large-Scale Analysis of Cybercriminal Activity Channels on Telegram,System Security & Threat Detection,Detailed,676,7.0,5.0,Measurement,5
+25,Vuln Research,From Risk to Resilience Towards Assessing and Mitigating the Risk of Data Reconstruction Attacks in Federated Learning,Machine Learning & AI (non-LLM),Detailed,386,8.0,6.666666666666667,"System, Theory",1
+26,Vuln Research,Too Much of a Good Thing (In-)Security of Mandatory Security Software for Financial Services in South Korea,Cryptography & Formal Verification,Detailed,640,10.0,6.0,"Human Subjects, Theory",2
+27,Vuln Research,Are CAPTCHAs Still Bot-hard Generalized Visual {CAPTCHA} Solving with Agentic Vision Language Model,Large Language Models (LLM),Detailed,510,9.0,6.0,"System, Human Subjects, Theory",3
+28,Vuln Research,Abusability of Automation Apps in Intimate Partner Violence,Usable Security & Privacy,Detailed,429,8.0,6.0,System,4
+29,Vuln Research,More is Less Extra Features in Contactless Payments Break Security,Cryptography & Formal Verification,Detailed,423,7.0,6.0,,5

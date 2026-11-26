@@ -1,0 +1,7 @@
+Research_Type,n,VulnDisclosure,HumanSubjects,DataPrivacy,StakeholderImpact,HarmMitigation,ToSViolation,LiveTesting,ResearcherSafety
+Human Subjects,13,23.1,100.0,84.6,76.9,69.2,0.0,38.5,7.7
+Measurement,16,31.2,18.8,50.0,62.5,56.2,0.0,18.8,6.2
+SoK,7,28.6,14.3,28.6,42.9,57.1,0.0,0.0,14.3
+System,60,43.3,8.3,38.3,58.3,58.3,0.0,10.0,8.3
+Theory,42,23.8,21.4,42.9,64.3,59.5,0.0,14.3,11.9
+Vuln Research,44,75.0,13.6,29.5,75.0,72.7,0.0,20.5,9.1

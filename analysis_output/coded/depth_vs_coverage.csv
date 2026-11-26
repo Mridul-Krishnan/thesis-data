@@ -1,0 +1,5 @@
+,x,y,spearman_rho,p_value
+0,ethics_words,total_codes,0.784,0.0
+1,depth_score,total_codes,0.76,0.0
+2,depth_score,ethics_words,0.854,0.0
+3,ethics_words,menlo_count,0.694,0.0

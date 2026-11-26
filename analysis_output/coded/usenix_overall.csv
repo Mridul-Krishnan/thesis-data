@@ -1,0 +1,9 @@
+,pct_papers,n_true
+VulnDisclosure,42.0,37
+HumanSubjects,18.2,16
+DataPrivacy,42.0,37
+StakeholderImpact,63.6,56
+HarmMitigation,62.5,55
+ToSViolation,0.0,0
+LiveTesting,14.8,13
+ResearcherSafety,10.2,9

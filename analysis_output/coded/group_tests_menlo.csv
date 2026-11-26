@@ -1,0 +1,5 @@
+,code,groups,chi2,dof,p_value,low_expected_cells_pct
+1,RespectForPersons,10,24.83,9,0.0032,65.0
+2,Justice,10,23.56,9,0.0051,65.0
+0,Beneficience,10,11.35,9,0.2527,60.0
+3,RespectForLawAndPublicInterest,10,8.62,9,0.4734,55.0
