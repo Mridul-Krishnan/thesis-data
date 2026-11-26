@@ -10,7 +10,7 @@ from collections import defaultdict
 from pathlib import Path
 
 
-FOLDER_PATH = Path("../Databook")
+FOLDER_PATH = Path("./Databook")
 
 DOMAIN_QUOTAS = {
     "Blockchain & Distributed Ledger Security": 0,
@@ -26,12 +26,11 @@ DOMAIN_QUOTAS = {
 }
 
 # Only papers with one of these current Status values are eligible for selection.
-# Use None to allow every paper whose Status is not already "reading".
 ELIGIBLE_STATUSES = {"Ethics Section Extracted"}
 
 TARGET_STATUS = "Reading"
-RANDOM_SEED = 42  # Set to None for a different selection each run.
-DRY_RUN = True  # Change to False to modify files.
+RANDOM_SEED = None
+DRY_RUN = True
 
 
 # ---------------- YAML frontmatter helpers ----------------
