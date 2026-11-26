@@ -21,7 +21,7 @@ DOMAIN_QUOTAS = {
     "Network Security & Infrastructure": 0,
     "Privacy (Data Security & Analytics)": 0,
     "Software Security & Development Lifecycle": 0,
-    "System Security & Threat Detection": 1,
+    "System Security & Threat Detection": 0,
     "Usable Security & Privacy": 0,
 }
 
