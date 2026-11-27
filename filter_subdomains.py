@@ -4,7 +4,7 @@
 
 import pandas as pd
 
-path = "Your_CSV_File_Path_Here"
+path = "./track_subdomain_list.csv"
 
 df = pd.read_csv(path)
 # Remove numbers and strip whitespace from subdomains
